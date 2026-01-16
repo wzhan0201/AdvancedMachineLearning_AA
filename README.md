@@ -14,3 +14,5 @@ Access: [Hugging Face](https://huggingface.co/datasets/BoKelvin/SLAKE)
 Content: Medical images (CT, MRI, X-ray) with bilingual VQA pairs
 Filtered to English questions only
 Train: 4,918 samples | Validation: 1,047 | Test: 1,059
+
+The trained model checkpoints are not included in the GitHub repository due to file size limitations. Please contact me at 24081813@siswa.um.edu.my if necessary.
